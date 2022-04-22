@@ -1,0 +1,10 @@
+body 
+{ 
+int main ()
+{
+
+
+
+return 0;
+}
+}
